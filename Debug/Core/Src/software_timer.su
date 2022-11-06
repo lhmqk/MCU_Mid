@@ -1,0 +1,3 @@
+software_timer.c:16:6:setTimerBlinky	16	static
+software_timer.c:20:6:setCounterMain	16	static
+software_timer.c:25:6:timerRun	4	static
